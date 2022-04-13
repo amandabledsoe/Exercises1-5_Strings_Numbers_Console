@@ -17,7 +17,8 @@ namespace Exercises1_5_Strings_Numbers_Console
             string userInput;
             bool isANumber;
             double userDouble;
-            List<double> numbers = new List<double>();
+            List<double> numbers4 = new List<double>();
+            List<double> numbers5 = new List<double>();
 
             Console.WriteLine("Hello!");
             Console.WriteLine("This is the program for the Grand Circus C# .Net boot camp exercises 1-5: Strings, Numbers, Console");
@@ -110,7 +111,7 @@ namespace Exercises1_5_Strings_Numbers_Console
                 {
                     for (int i = 1; i < 3; i++)
                     {
-                        if (numbers.Count()<1)
+                        if (numbers4.Count()<1)
                         {
                             Console.Write("Enter your first number: ");
                             userInput = Console.ReadLine();
@@ -118,7 +119,7 @@ namespace Exercises1_5_Strings_Numbers_Console
                             isANumber = double.TryParse(userInput, out userDouble);
                             if (isANumber)
                             {
-                                numbers.Add(userDouble);
+                                numbers4.Add(userDouble);
                             }
                             else
                             {
@@ -129,7 +130,7 @@ namespace Exercises1_5_Strings_Numbers_Console
                                 doingExercise4 = false;
                             }
                         }
-                        else if (numbers.Count()<=1)
+                        else if (numbers4.Count()<=1)
                         {
                             Console.Write("Enter your second number: ");
                             userInput = Console.ReadLine();
@@ -137,14 +138,14 @@ namespace Exercises1_5_Strings_Numbers_Console
                             isANumber = double.TryParse(userInput, out userDouble);
                             if (isANumber)
                             {
-                                numbers.Add(userDouble);
+                                numbers4.Add(userDouble);
                             }
                             else
                             {
                                 Console.WriteLine("Sorry, that doesnt appear to be a number or anything we can work with, so I can't use this entry.");
                                 Console.WriteLine("Press enter and let's try again");
                                 Console.ReadLine();
-                                if (numbers.Count() == 1)
+                                if (numbers4.Count() == 1)
                                 {
                                     i = 1;
                                     doingExercise4 = true;
@@ -157,13 +158,13 @@ namespace Exercises1_5_Strings_Numbers_Console
                         }
 
                     }
-                    if (numbers.Count()<=1)
+                    if (numbers4.Count()<=1)
                     {
 
                     }
-                    else if (numbers.Count() == 2)
+                    else if (numbers4.Count() == 2)
                     {
-                        int total = numbers.Sum(x => Convert.ToInt32(x));
+                        int total = numbers4.Sum(x => Convert.ToInt32(x));
                         Console.WriteLine($"The sum of your two numbers is: {total}");
                     }
                     doingExercise4 = false;
@@ -185,7 +186,7 @@ namespace Exercises1_5_Strings_Numbers_Console
                 {
                     for (int i = 1; i < 3; i++)
                     {
-                        if (numbers.Count() < 1)
+                        if (numbers5.Count() < 1)
                         {
                             Console.Write("Enter your first number: ");
                             userInput = Console.ReadLine();
@@ -193,7 +194,7 @@ namespace Exercises1_5_Strings_Numbers_Console
                             isANumber = double.TryParse(userInput, out userDouble);
                             if (isANumber)
                             {
-                                numbers.Add(userDouble);
+                                numbers5.Add(userDouble);
                             }
                             else
                             {
@@ -201,10 +202,10 @@ namespace Exercises1_5_Strings_Numbers_Console
                                 Console.WriteLine("Press enter and let's try again");
                                 Console.ReadLine();
                                 i = 0;
-                                doingExercise4 = false;
+                                doingExercise5 = false;
                             }
                         }
-                        else if (numbers.Count() <= 1)
+                        else if (numbers5.Count() <= 1)
                         {
                             Console.Write("Enter your second number: ");
                             userInput = Console.ReadLine();
@@ -212,34 +213,34 @@ namespace Exercises1_5_Strings_Numbers_Console
                             isANumber = double.TryParse(userInput, out userDouble);
                             if (isANumber)
                             {
-                                numbers.Add(userDouble);
+                                numbers5.Add(userDouble);
                             }
                             else
                             {
                                 Console.WriteLine("Sorry, that doesnt appear to be a number or anything we can work with, so I can't use this entry.");
                                 Console.WriteLine("Press enter and let's try again");
                                 Console.ReadLine();
-                                if (numbers.Count() == 1)
+                                if (numbers5.Count() == 1)
                                 {
                                     i = 1;
-                                    doingExercise4 = true;
+                                    doingExercise5 = true;
                                 }
                                 else
                                 {
-                                    doingExercise4 = false;
+                                    doingExercise5 = false;
                                 }
                             }
                         }
 
                     }
-                    if (numbers.Count() <= 1)
+                    if (numbers5.Count() <= 1)
                     {
 
                     }
-                    else if (numbers.Count() == 2)
+                    else if (numbers5.Count() == 2)
                     {
                         int theTotal = 1;
-                        foreach (int i in numbers)
+                        foreach (int i in numbers5)
                         {
                             theTotal = theTotal * i;
                         }
