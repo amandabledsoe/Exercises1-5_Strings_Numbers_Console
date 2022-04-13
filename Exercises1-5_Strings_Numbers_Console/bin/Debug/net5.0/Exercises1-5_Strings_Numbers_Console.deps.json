@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Exercises1-5_Strings_Numbers_Console/1.0.0": {
+        "runtime": {
+          "Exercises1-5_Strings_Numbers_Console.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Exercises1-5_Strings_Numbers_Console/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

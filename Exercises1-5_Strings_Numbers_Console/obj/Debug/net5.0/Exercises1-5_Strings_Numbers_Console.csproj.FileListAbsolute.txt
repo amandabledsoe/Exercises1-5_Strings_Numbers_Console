@@ -1,0 +1,16 @@
+C:\Users\xando\source\repos\Exercises1-5_Strings_Numbers_Console\Exercises1-5_Strings_Numbers_Console\bin\Debug\net5.0\Exercises1-5_Strings_Numbers_Console.exe
+C:\Users\xando\source\repos\Exercises1-5_Strings_Numbers_Console\Exercises1-5_Strings_Numbers_Console\bin\Debug\net5.0\Exercises1-5_Strings_Numbers_Console.deps.json
+C:\Users\xando\source\repos\Exercises1-5_Strings_Numbers_Console\Exercises1-5_Strings_Numbers_Console\bin\Debug\net5.0\Exercises1-5_Strings_Numbers_Console.runtimeconfig.json
+C:\Users\xando\source\repos\Exercises1-5_Strings_Numbers_Console\Exercises1-5_Strings_Numbers_Console\bin\Debug\net5.0\Exercises1-5_Strings_Numbers_Console.runtimeconfig.dev.json
+C:\Users\xando\source\repos\Exercises1-5_Strings_Numbers_Console\Exercises1-5_Strings_Numbers_Console\bin\Debug\net5.0\Exercises1-5_Strings_Numbers_Console.dll
+C:\Users\xando\source\repos\Exercises1-5_Strings_Numbers_Console\Exercises1-5_Strings_Numbers_Console\bin\Debug\net5.0\ref\Exercises1-5_Strings_Numbers_Console.dll
+C:\Users\xando\source\repos\Exercises1-5_Strings_Numbers_Console\Exercises1-5_Strings_Numbers_Console\bin\Debug\net5.0\Exercises1-5_Strings_Numbers_Console.pdb
+C:\Users\xando\source\repos\Exercises1-5_Strings_Numbers_Console\Exercises1-5_Strings_Numbers_Console\obj\Debug\net5.0\Exercises1-5_Strings_Numbers_Console.csproj.AssemblyReference.cache
+C:\Users\xando\source\repos\Exercises1-5_Strings_Numbers_Console\Exercises1-5_Strings_Numbers_Console\obj\Debug\net5.0\Exercises1-5_Strings_Numbers_Console.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\xando\source\repos\Exercises1-5_Strings_Numbers_Console\Exercises1-5_Strings_Numbers_Console\obj\Debug\net5.0\Exercises1-5_Strings_Numbers_Console.AssemblyInfoInputs.cache
+C:\Users\xando\source\repos\Exercises1-5_Strings_Numbers_Console\Exercises1-5_Strings_Numbers_Console\obj\Debug\net5.0\Exercises1-5_Strings_Numbers_Console.AssemblyInfo.cs
+C:\Users\xando\source\repos\Exercises1-5_Strings_Numbers_Console\Exercises1-5_Strings_Numbers_Console\obj\Debug\net5.0\Exercises1-5_Strings_Numbers_Console.csproj.CoreCompileInputs.cache
+C:\Users\xando\source\repos\Exercises1-5_Strings_Numbers_Console\Exercises1-5_Strings_Numbers_Console\obj\Debug\net5.0\Exercises1-5_Strings_Numbers_Console.dll
+C:\Users\xando\source\repos\Exercises1-5_Strings_Numbers_Console\Exercises1-5_Strings_Numbers_Console\obj\Debug\net5.0\ref\Exercises1-5_Strings_Numbers_Console.dll
+C:\Users\xando\source\repos\Exercises1-5_Strings_Numbers_Console\Exercises1-5_Strings_Numbers_Console\obj\Debug\net5.0\Exercises1-5_Strings_Numbers_Console.pdb
+C:\Users\xando\source\repos\Exercises1-5_Strings_Numbers_Console\Exercises1-5_Strings_Numbers_Console\obj\Debug\net5.0\Exercises1-5_Strings_Numbers_Console.genruntimeconfig.cache
